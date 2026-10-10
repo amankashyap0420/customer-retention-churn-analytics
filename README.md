@@ -24,6 +24,8 @@ The project addresses the following business questions:
 - How can these insights be presented through an interactive decision-support dashboard?
 
 ---
+**Tech Stack:** Python | Pandas | NumPy | SciPy |
+Scikit-learn | SQLite | Power BI | DAX | Git
 
 ## Dataset
 
@@ -381,6 +383,15 @@ Based on the analytical findings, potential retention strategies include:
 These recommendations should be treated as testable business strategies rather than proven causal solutions. Controlled experiments can be used to measure their actual retention impact.
 
 ---
+
+## Project Highlights
+
+- Analyzed 7,043 telecom customers with an observed churn rate of 26.54%.
+- Conducted exploratory data analysis and statistical hypothesis testing.
+- Compared four classification models to estimate customer churn probabilities.
+- Developed customer-level risk categories and retention priority scores.
+- Used SQL to identify high-priority retention candidates.
+- Built a four-page Power BI dashboard for churn monitoring and financial exposure analysis.
 
 ## Project Structure
 

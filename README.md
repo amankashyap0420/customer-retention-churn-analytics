@@ -289,6 +289,20 @@ Customer-level retention candidates were ranked using business priority, churn p
 
 ## Power BI Dashboard
 
+### Dashboard Preview
+
+#### Executive Overview
+![Executive Overview](dashboard/screenshots/executive_overview.png)
+
+#### Churn Drivers
+![Churn Drivers](dashboard/screenshots/churn_drivers.png)
+
+#### Risk & Financial Exposure
+![Risk & Financial Exposure](dashboard/screenshots/risk_financial_exposure.png)
+
+#### Retention Prioritization
+![Retention Prioritization](dashboard/screenshots/retention_prioritization.png)
+
 An interactive Power BI dashboard was developed to translate the analysis into a business decision-support tool.
 
 The dashboard contains four analytical pages:
